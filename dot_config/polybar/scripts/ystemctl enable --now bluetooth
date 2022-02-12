@@ -1,0 +1,4 @@
+○ bluetooth.service - Bluetooth service
+     Loaded: loaded (]8;;file://neuromancer/usr/lib/systemd/system/bluetooth.service/usr/lib/systemd/system/bluetooth.service]8;;; disabled; vendor preset: disabled)
+     Active: inactive (dead)
+       Docs: ]8;;man:bluetoothd(8)man:bluetoothd(8)]8;;
